@@ -6,3 +6,9 @@ A new Flutter project.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+## How to build
+```sh
+$ flutter packages get
+$ flutter build (apk/ios)
+```
